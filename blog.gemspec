@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.licenses    = ['MIT']
   s.summary     = '<FILL ME IN>'
   s.description = '<FILL ME IN>'
-  s.authors     = ['<FILL ME IN>']
+  s.authors     = ["<FILL ME IN>"]
   s.email       = '<FILL ME IN>'
   s.files       = Dir['lib/**/*.rb', 'domain/**/*.rb', 'events/**/*.rb', 'Domainfile']
-  s.homepage    = 'http://www.exsample.com'
+  s.homepage    = 'http://www.example.com'
   s.metadata    = { 'hecks_domain' => 'true' }
 end
